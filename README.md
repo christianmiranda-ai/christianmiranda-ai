@@ -24,6 +24,8 @@
 
 - **"Susano'o" L1.5 Research Platform**: Creating a versatile experimental platform for testing novel propulsion concepts and flight dynamics under the SEDS Rocketry program.
 
+- **PicoGK Integration**: Utilizing LEAP71's revolutionary computational engineering model to revolutionize mechanical design.
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technical Arsenal
 
 <p align="left">
