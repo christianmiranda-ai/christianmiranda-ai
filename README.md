@@ -1,4 +1,7 @@
-## Hi there 👋 My name is Christian Miranda and I'm a Mechanical Engineering Student at Arizona State University!
+### Hi there 👋 My name is Christian Miranda and I'm a Mechanical Engineering Student at Arizona State University!
+
+
+
 
 
 ## 🚀 What I'm working on:
@@ -9,16 +12,34 @@ Turbopump: Collaborating with a colleague to design ASU's first turbomachinery p
 "Raijin" NAR L1 Amateur Rocket: Pursuing NAR L1 certification on behalf of the Students for the Exploration and Development of Space (SEDS) Rocketry Division at ASU.
 
 
+
 ## 🔭 Future Projects:
 "Amaterasu" NAR L2 Rocket: Pursuing NAR L2 certification on behalf of the Students for the Exploration and Development of Space (SEDS) Rocketry Division at ASU.
 
 "Susano'o" L1.5 Amateur Rocket: Pursuing L1.5 internal certification under the Students for the Exploration and Development of Space (SEDS) Rocketry Division at ASU.
 
 
-📚 What I'm learning:
+
+📚 Software Skills:
 Python Programming: Exploring its applications in systems design and automation, as it pertains to the projects above.
+Siemens NX: 
 
 
+
+## My Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christianmiranda-ai&show_icons=true&theme=dark)
+
+
+
+## Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+
+
+
+## Languages and Tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
 
 
