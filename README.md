@@ -1,8 +1,10 @@
-# 🚀 Christian Miranda | BSE Mechanical Engineering Student @ ASU '26
+# 🚀 Christian Miranda | B.S.E. Mechanical Engineering @ ASU
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Aerospace+Engineer;Rocketry+Specialist;Mechanical+Designer;Propulsion+Engineer)
+
+> I'm a motivated Mechanical Engineering student interested in building a career in the commercial Space industry following graduation. 
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
