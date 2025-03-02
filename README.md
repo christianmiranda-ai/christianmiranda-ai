@@ -41,16 +41,18 @@ Siemens NX:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christianmiranda-ai&show_icons=true&theme=dark)
 
 
-
-## Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
-
-
-
 ## Languages and Tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/-SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Fusion%20360-0696D7?style=flat-square&logo=autodesk&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Siemens%20NX-00AEEF?style=flat-square&logo=siemens&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-ANSYS-FFB71B?style=flat-square&logo=ansys&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-LTSpice-8B0000?style=flat-square" height="30"/>
+</p>
 
 
 
