@@ -1,4 +1,4 @@
-# 🚀 Christian Miranda | Aerospace Engineer & Rocketry Specialist
+# 🚀 Christian Miranda | Aspiring Aerospace Engineer | Mechanical Engineering Student @ ASU
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=christianmiranda-ai.christianmiranda-ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
