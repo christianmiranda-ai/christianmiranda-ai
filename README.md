@@ -16,7 +16,7 @@
 
 - **"Raijin" NAR L1 Certification**: Spearheading ASU SEDS Rocketry Division's NAR L1 certification project, focusing on optimized aerodynamics and robust recovery systems.
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ2bTJmNWF2eHhyanV0Ymx6b2lraXBrYnNtc3A3MTlld2JzOTFxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTjkdAKV2v0MZDWuWD/giphy.gif" width="30"> Future Endeavors
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ2bTJmNWF2eHhyanV0Ymx6b2lraXBrYnNtc3A3MTlld2JzOTFxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTjkdAKV2v0MZDWuWD/giphy.gif" width="50"> Future Endeavors
 
 - **"Amaterasu" NAR L2 Rocket**: Designing a high-powered vehicle with advanced avionics and dual-deployment recovery for NAR L2 certification.
 
