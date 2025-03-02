@@ -4,9 +4,9 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=christianmiranda-ai.christianmiranda-ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Aerospace+Engineer;Rocketry+Specialist;Mechanical+Designer;Propulsion+Engineer)
+> ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Aerospace+Engineer;Rocketry+Specialist;Mechanical+Designer;Propulsion+Engineer)
 
-> []
+ []
 
 ## 🔥 Current Projects
 
