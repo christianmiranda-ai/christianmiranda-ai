@@ -7,7 +7,7 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technical Current Projects
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Current Projects
 
 - **Turbopump Development**: Leading the design of ASU's first turbomachinery system for integration with a KeroLOX liquid rocket engine, pushing the boundaries of student-led propulsion research.
 
