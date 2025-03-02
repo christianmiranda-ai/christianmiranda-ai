@@ -26,7 +26,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technical Arsenal
 
-## **Computational Tools:**
+**Computational Tools:**
 - Python: Creating simulation frameworks for flight dynamics and propulsion analysis
 - MATLAB: Developing complex fluid dynamics models and control systems
 - Siemens NX: Executing precision engineering design and analysis
