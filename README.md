@@ -1,35 +1,35 @@
-### Hi there 👋 My name is Christian Miranda!
+# 🚀 Christian Miranda | Aerospace Engineer & Rocketry Specialist
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=christianmiranda-ai.christianmiranda-ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
 
-## 🚀 What I'm working on:
-Turbopump: Collaborating with a colleague to design ASU's first turbomachinery project, to be mated to a liquid rocket engine (KeroLOX) for hot firing.
+> Pioneering the intersection of aerospace engineering and computational design at ASU
 
-"Hel" Active Airbraking Rocket: Developing a dynamic airbraking system for a solid propellant rocket.
+## 🔥 Current Projects
 
-"Raijin" NAR L1 Amateur Rocket: Pursuing NAR L1 certification on behalf of the Students for the Exploration and Development of Space (SEDS) Rocketry Division at ASU.
+- **Turbopump Development**: Leading the design of ASU's first turbomachinery system for integration with a KeroLOX liquid rocket engine, pushing the boundaries of student-led propulsion research.
 
+- **"Hel" Active Airbraking System**: Architecting an innovative dynamic airbraking mechanism that optimizes descent trajectories and landing precision for solid propellant rockets.
 
+- **"Raijin" NAR L1 Certification**: Spearheading ASU SEDS Rocketry Division's NAR L1 certification project, focusing on optimized aerodynamics and robust recovery systems.
 
-## 🔭 Future Projects:
-"Amaterasu" NAR L2 Rocket: Pursuing NAR L2 certification on behalf of the Students for the Exploration and Development of Space (SEDS) Rocketry Division at ASU.
+## 🔭 Future Endeavors
 
-"Susano'o" L1.5 Amateur Rocket: Pursuing L1.5 internal certification under the Students for the Exploration and Development of Space (SEDS) Rocketry Division at ASU.
+- **"Amaterasu" NAR L2 Rocket**: Designing a high-powered vehicle with advanced avionics and dual-deployment recovery for NAR L2 certification.
 
+- **"Susano'o" L1.5 Research Platform**: Creating a versatile experimental platform for testing novel propulsion concepts and flight dynamics under the SEDS Rocketry program.
 
+## 💻 Technical Arsenal
 
-📚 Software Skills:
-Python Programming: Exploring its applications in systems design and automation, as it pertains to the projects above.
-Siemens NX: 
+**Computational Tools:**
+- Python: Creating simulation frameworks for flight dynamics and propulsion analysis
+- MATLAB: Developing complex fluid dynamics models and control systems
+- Siemens NX: Executing precision engineering design and analysis
 
+## ⚙️ Engineering Expertise
 
-
-## My Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christianmiranda-ai&show_icons=true&theme=dark)
-
-
-## Languages and Tools:
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
   <img src="https://img.shields.io/badge/-SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white" height="30"/>
@@ -40,30 +40,7 @@ Siemens NX:
   <img src="https://img.shields.io/badge/-LTSpice-8B0000?style=flat-square" height="30"/>
 </p>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## 📊 GitHub Analytics
 
-
-
-
-
-
-
-
-
-
-
-<!--
-**christianmiranda-ai/christianmiranda-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christianmiranda-ai&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christianmiranda-ai&theme=radical)](https://git.io/streak-stats)
