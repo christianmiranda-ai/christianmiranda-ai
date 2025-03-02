@@ -10,9 +10,6 @@
 
 > I'm a motivated Mechanical Engineering student at Arizona State University with 3 years of experience in the semiconductor industry. I bring a strong foundation in mechanical design, backed by 6 SolidWorks certifications, including a CSWP in mechanical design. With a passion for pushing humanity into the stars, I aim to leverage my skills in CAD, CFD, and mechanical systems design to contribute to innovative projects in the commercial space industry!
 
-
-> I'm a motivated Mechanical Engineering student at Arizona State University with 3 years of experience in the semiconductor industry. I bring a strong foundation in mechanical design, backed by 6 SolidWorks certifications, including a CSWP in mechanical design. With a passion for pushing humanity into the stars, I aim to leverage my skills in CAD, CFD, and mechanical systems design to contribute to innovative projects in the commercial space industry! 
-
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJwN3FueDR4NDNicW9jdjZpd21ldjYzZzRvbWdqd3BraWViNzR4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztowdimL4paHXUqQTX/giphy.gif" width="30"> Current Projects
