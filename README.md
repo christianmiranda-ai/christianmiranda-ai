@@ -1,5 +1,4 @@
-# 🚀 Christian Miranda | Mechanical Engineering Student @ ASU '26
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNhZmh2emVrbjhlYzd5c25lbnE1dnJjamE1enQwamx2a29uYnFheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cXZG8lQmWIsBsUXcdh/giphy.gif" width="200"/>
+# 🚀 Christian Miranda | BSE Mechanical Engineering Student @ ASU '26
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
 
@@ -7,7 +6,7 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://giphy.com/gifs/benjammins-blackbeard-black-beard-tlU2xDIGRuyP0K3hdd" width="30"> Current Projects
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhmZ3Z1bjBma2o3Nnloa216dm43dDdycG5mMmc2bWplb25oOW0wbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PBrA86lu1TDiM/giphy.gif" width="35"> Current Projects
 
 - **Turbopump Development**: Leading the design of ASU's first turbomachinery system for integration with a KeroLOX liquid rocket engine, pushing the boundaries of student-led propulsion research.
 
