@@ -1,19 +1,5 @@
 ### Hi there 👋 My name is Christian Miranda!
 
-<h2>
-  <span id="typed"></span>
-</h2>
-
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-<script>
-  var typed = new Typed('#typed', {
-    strings: ["Aerospace Enthusiast 🚀", "Mechanical Engineer 🔧", "Rocket Designer 🧑‍🚀"],
-    typeSpeed: 100,
-    backSpeed: 50,
-    loop: true
-  });
-</script>
-
 
 ## 🚀 What I'm working on:
 Turbopump: Collaborating with a colleague to design ASU's first turbomachinery project, to be mated to a liquid rocket engine (KeroLOX) for hot firing.
