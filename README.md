@@ -12,7 +12,7 @@
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJwN3FueDR4NDNicW9jdjZpd21ldjYzZzRvbWdqd3BraWViNzR4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztowdimL4paHXUqQTX/giphy.gif" width="30"> Current Projects
 
-- **Turbopump Development**: Leading the design of ASU's first turbomachinery system for integration with a KeroLOX liquid rocket engine, pushing the boundaries of student-led propulsion research.
+- **Turbopump Development**: Collaborating in the design of ASU's first turbomachinery system for integration with a KeroLOX liquid rocket engine, pushing the boundaries of student-led propulsion research.
 
 - **"Hel" Active Airbraking System**: Architecting an innovative dynamic airbraking mechanism that optimizes descent trajectories and landing precision for solid propellant rockets.
 
