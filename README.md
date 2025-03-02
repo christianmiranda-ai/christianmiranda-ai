@@ -22,7 +22,7 @@
 
 - **"Susano'o" L1.5 Research Platform**: Creating a versatile experimental platform for testing novel propulsion concepts and flight dynamics under the SEDS Rocketry program.
 
-## 💻 Technical Arsenal
+## 💻 Technical Arsenal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 **Computational Tools:**
 - Python: Creating simulation frameworks for flight dynamics and propulsion analysis
