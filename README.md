@@ -4,9 +4,12 @@
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Aspiring+Aerospace+Engineer;Rocketry+Specialist;Mechanical+Designer;)
 
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHo4eGNyeXBrNmMxYTBvbGtuZm5qOW0xYWFhbm5pNHV6dnBwd3YzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TX6UpjsXPtQEZ0RwQP/giphy.gif" width="200" style="margin-right: 20px;"/>
-  <p style="margin: 0; flex-grow: 1;">I'm a motivated Mechanical Engineering student at Arizona State University with 3 years of experience in the semiconductor industry. I bring a strong foundation in mechanical design, backed by 6 SolidWorks certifications, including a CSWP in mechanical design. With a passion for pushing humanity into the stars, I aim to leverage my skills in CAD, CFD, and mechanical systems design to contribute to innovative projects in the commercial space industry!</p>
+<div style="position: relative;">
+  <p style="position: absolute; top: -20px; left: 50%; transform: translateX(-50%); color: #00FFFF; font-weight: bold; font-style: italic;">Mechanical Designer / Aspiring Aerospace Engineer</p>
+  <div style="display: flex; align-items: center; flex-wrap: wrap; margin-top: 20px;">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHo4eGNyeXBrNmMxYTBvbGtuZm5qOW0xYWFhbm5pNHV6dnBwd3YzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TX6UpjsXPtQEZ0RwQP/giphy.gif" width="200" style="margin-right: 20px;"/>
+    <p style="margin: 0; flex-grow: 1;">> I'm a motivated Mechanical Engineering student at Arizona State University with 3 years of experience in the semiconductor industry. I bring a strong foundation in mechanical design, backed by 6 SolidWorks certifications, including a CSWP in mechanical design. With a passion for pushing humanity into the stars, I aim to leverage my skills in CAD, CFD, and mechanical systems design to contribute to innovative projects in the commercial space industry!</p>
+  </div>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
