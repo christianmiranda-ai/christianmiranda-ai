@@ -1,10 +1,10 @@
-# 🚀 Christian Miranda | B.S.E. Mechanical Engineering @ ASU | Incoming @ Honeywell Aerospace
+# 🚀 Christian Miranda | B.S.E. Mechanical Engineering @ ASU
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHo4eGNyeXBrNmMxYTBvbGtuZm5qOW0xYWFhbm5pNHV6dnBwd3YzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TX6UpjsXPtQEZ0RwQP/giphy.gif" width="200">
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Aspiring+Aerospace+Engineer;Rocketry+Specialist;Mechanical+Designer;)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Aspiring+Aerospace+Engineer;Rocketry+Specialist;Mechanical+Designer;Incoming+at+Honeywell+Aerospace;)
 
 > I'm a motivated Mechanical Engineering student at Arizona State University with 3 years of experience in the semiconductor industry. I bring a strong foundation in mechanical design, backed by 6 SolidWorks certifications, including a CSWP in mechanical design. With a passion for pushing humanity into the stars, I aim to leverage my skills in CAD, CFD, and mechanical systems design to contribute to innovative projects in the commercial space industry!
 
