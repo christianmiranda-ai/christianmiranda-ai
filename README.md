@@ -8,7 +8,7 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhmZ3Z1bjBma2o3Nnloa216dm43dDdycG5mMmc2bWplb25oOW0wbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PBrA86lu1TDiM/giphy.gif" width="35"> Current Projects
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJwN3FueDR4NDNicW9jdjZpd21ldjYzZzRvbWdqd3BraWViNzR4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztowdimL4paHXUqQTX/giphy.gif" width="30"> Current Projects
 
 - **Turbopump Development**: Leading the design of ASU's first turbomachinery system for integration with a KeroLOX liquid rocket engine, pushing the boundaries of student-led propulsion research.
 
