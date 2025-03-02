@@ -40,12 +40,6 @@ Siemens NX:
   <img src="https://img.shields.io/badge/-LTSpice-8B0000?style=flat-square" height="30"/>
 </p>
 
-
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=christianmiranda-ai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Christian's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=christianmiranda-ai&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
