@@ -24,9 +24,7 @@
 
 - **"Susano'o" L1.5 Research Platform**: Creating a versatile experimental platform for testing novel propulsion concepts and flight dynamics under the SEDS Rocketry program.
 
-- **PicoGK Integration**: Utilizing LEAP71's revolutionary C#-based computational engineering model to revolutionize mechanical design.
-
-- **CADQuery Integration**: Utilizing a similar, but Python-based, computational enginering model to revolutionize mechanical design.
+- **Turbojet**: [PENDING]
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technical Arsenal
 
