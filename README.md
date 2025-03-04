@@ -4,7 +4,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHo4eGNyeXBrNmMxYTBvbGtuZm5qOW0xYWFhbm5pNHV6dnBwd3YzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TX6UpjsXPtQEZ0RwQP/giphy.gif" width="200">
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Aspiring+Aerospace+Engineer;Rocketry+Specialist;Mechanical+Designer;Incoming+at+Honeywell+Aerospace;)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Aspiring+Aerospace+Engineer;Rocketry+Specialist;Mechanical+Designer;Incoming+MecheE+Intern+at+Honeywell+Aerospace;)
 
 > I'm a motivated Mechanical Engineering student at Arizona State University with 3 years of experience in the semiconductor industry. I bring a strong foundation in mechanical design, backed by 6 SolidWorks certifications, including a CSWP in mechanical design. With a passion for pushing humanity into the stars, I aim to leverage my skills in CAD, CFD, and mechanical systems design to contribute to innovative projects in the commercial space industry!
 
@@ -19,12 +19,6 @@
 - **"Raijin" NAR L1 Certification**: Spearheading ASU SEDS Rocketry Division's NAR L1 certification project, focusing on optimized aerodynamics and robust recovery systems.
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ2bTJmNWF2eHhyanV0Ymx6b2lraXBrYnNtc3A3MTlld2JzOTFxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTjkdAKV2v0MZDWuWD/giphy.gif" width="50"> Future Endeavors
-
-- **"Amaterasu" NAR L2 Rocket**: Designing a high-powered vehicle with advanced avionics and dual-deployment recovery for NAR L2 certification.
-
-- **"Susano'o" L1.5 Research Platform**: Creating a versatile experimental platform for testing novel propulsion concepts and flight dynamics under the SEDS Rocketry program.
-
-- **Turbojet**: [PENDING]
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technical Arsenal
 
