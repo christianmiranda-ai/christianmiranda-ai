@@ -1,4 +1,4 @@
-# 🚀 Christian Miranda | B.S.E. Mechanical Engineering @ ASU
+# 🚀 Christian Miranda | B.S. Mechanical Engineering @ ASU
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/christianmiranda602/)
 
@@ -6,7 +6,7 @@
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Aspiring+Aerospace+Engineer;Rocketry+Specialist;Mechanical+Designer;Incoming+MecheE+Intern+at+Honeywell+Aerospace;)
 
-> I'm a motivated Mechanical Engineering student at Arizona State University with 3 years of experience in the semiconductor industry. I bring a strong foundation in mechanical design, backed by 6 SolidWorks certifications, including a CSWP in mechanical design. With a passion for pushing humanity into the stars, I aim to leverage my skills in CAD, CFD, and mechanical systems design to contribute to innovative projects in the commercial space industry!
+> I'm a motivated Mechanical Engineering student at Arizona State University with 3 years of experience in the semiconductor industry. I bring a strong foundation in mechanical design, backed by 6 SolidWorks certifications, including a CSWP in mechanical design. With a passion for learning about state-of-the-art technology, I aim to leverage my skills in mechanical design, computation modeling, and systems-level integration to contribute to innovative projects in the commercial space industry!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -19,6 +19,7 @@
 - **"Raijin" NAR L1 Certification**: Spearheading ASU SEDS Rocketry Division's NAR L1 certification project, focusing on optimized aerodynamics and robust recovery systems.
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ2bTJmNWF2eHhyanV0Ymx6b2lraXBrYnNtc3A3MTlld2JzOTFxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTjkdAKV2v0MZDWuWD/giphy.gif" width="50"> Future Endeavors
+- []
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technical Arsenal
 
