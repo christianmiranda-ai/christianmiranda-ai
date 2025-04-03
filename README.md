@@ -12,7 +12,7 @@
 
 - **Turbopump Development**: Collaborating in the design of ASU's first turbomachinery system for integration with a KeroLOX liquid rocket engine, pushing the boundaries of student-led propulsion research.
 
-- **"Raijin" NAR L1 Certification**: Spearheading ASU SEDS Rocketry Division's NAR L1 certification project, focusing on optimized aerodynamics and robust recovery systems.
+- **"Raijin" NAR L1 Certification**: Working on my persoanl NAR L1 certification project.
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ2bTJmNWF2eHhyanV0Ymx6b2lraXBrYnNtc3A3MTlld2JzOTFxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTjkdAKV2v0MZDWuWD/giphy.gif" width="50"> Future Endeavors
 - []
