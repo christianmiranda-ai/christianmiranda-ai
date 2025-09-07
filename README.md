@@ -2,9 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/christianmiranda602/)
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Aspiring+Aerospace+Engineer;Rocketry+Specialist;Mechanical+Designer;Incoming+MecheE+Intern+at+Honeywell+Aerospace;)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Aspiring+Aerospace+Engineer;Rocketry+Specialist;Mechanical+Designer;Former+Intern+@+Honeywell+Aerospace+&+Mercury+Systems;)
 
-> I'm a motivated Mechanical Engineering student at Arizona State University with 3 years of experience in the semiconductor industry. I bring a strong foundation in mechanical design, backed by 6 SolidWorks certifications, including a CSWP in mechanical design. 
+> I'm a motivated Mechanical Engineering student at Arizona State University with 3 years of experience in the semiconductor industry. I bring a strong foundation in mechanical design, backed by 6 SolidWorks certifications and one for Siemens NX.
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJwN3FueDR4NDNicW9jdjZpd21ldjYzZzRvbWdqd3BraWViNzR4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztowdimL4paHXUqQTX/giphy.gif" width="30"> Current Projects
 
