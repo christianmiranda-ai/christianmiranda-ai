@@ -4,7 +4,7 @@
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Aspiring+Aerospace+Engineer;Rocketry+Specialist;Mechanical+Designer;Former+Intern+@+Honeywell+Aerospace+&+Mercury+Systems;)
 
-> I'm a motivated Mechanical Engineering student at Arizona State University with 3 years of experience in the semiconductor industry. I bring a strong foundation in mechanical design, backed by 6 SolidWorks certifications and one for Siemens NX.
+> I'm a motivated Mechanical Engineering student at Arizona State University with 3 years of experience in the printed circuit board manufacturing industry (Mercury Systems) and more recently, the aerospace industry (Honeywell Aerospace). My skillset is concentrated in mechanical design, simulations, and analytic programming. To support those skills, I hold various certifications, with six from Dassault Systemes and one from Siemens. I'm looking for opportunities in fast-paced and tight-knit teams where I can apply and expand my breath of knowledge in an interdisciplinary fashion.
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJwN3FueDR4NDNicW9jdjZpd21ldjYzZzRvbWdqd3BraWViNzR4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztowdimL4paHXUqQTX/giphy.gif" width="30"> Current Projects
 
